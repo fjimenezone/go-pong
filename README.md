@@ -1,7 +1,14 @@
 # go-pong
-Implementation of Pong in go
+Implementation of Pong in Go
 
-## Challenges
+## The Plan
+Broken down into tasks
+[Plan](Plan.md)
+
+## The process trail
+Some steps taken while working on it.
+[Trail](Trail.md)
+
 ### Extra Challenges
 
 1. Optimize screen rendering
